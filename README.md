@@ -1,7 +1,7 @@
 <h3 align="center"> Hello World 🌎! I'm Vero 🤓</h3>
 
 <p align="center">
-  I'm a <strong>Full Stack Web Developer</strong> based in Argentina 🇦🇷, currently working with <strong>Ruby on Rails</strong> 🧡 at <a        href='https://unagi.com.ar/'>Unagi</a>. <br>
+  I'm a <strong>Full Stack Web Developer</strong> based in Argentina 🇦🇷, currently working with <strong>Ruby on Rails</strong> at <a        href='https://unagi.com.ar/'>Unagi</a>🧡. <br>
   I'm also studying for a bachelor's degree in Computer Science 💻 and a bachelor's degree in Multimedia Design 🎨 at UNLP. <br>
   I like to believe that I am creative and very perseverant. I enjoy cooking 🍪 and I'm always looking for the next recipe to try. <br>
   I love art, ✈️ traveling ✈️ and getting to know new cities and cultures. <br>
