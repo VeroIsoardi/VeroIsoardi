@@ -5,7 +5,7 @@
   <br>
   I'm also studying for a bachelor's degree in Computer Science 💻 and a bachelor's degree in Multimedia Design 🎨 at UNLP. <br>
   I like to believe that I am creative and very perseverant. I need to understand how things work and why they work that way. I enjoy learning, growing and facing new challenges. <br>
-  I give special attention to Front-end, design and UX, and also to testing and code quality and performance.
+  I give special attention to Front-end, design and UX, and also to testing, code quality and performance.
 </p>
 
 <br>
