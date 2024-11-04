@@ -3,9 +3,8 @@
 <p align="center">
   I'm a <strong>Full Stack Web Developer</strong> with 3+ years of experience, based in Argentina 🇦🇷, currently working with <strong>Ruby on Rails</strong> at <a        href='https://unagisoftware.com/'>Unagi</a> 🧡. 
   <br>
-  I'm also studying for a bachelor's degree in Computer Science 💻 and a bachelor's degree in Multimedia Design 🎨 at UNLP. <br>
+  I'm also studying for a bachelor's degree in Computer Science 💻 at UNLP. <br>
   I like to believe that I am creative and very perseverant. I need to understand how things work and why they work that way. I enjoy learning, growing and facing new challenges. <br>
-  I give special attention to Front-end, design and UX, and also to testing, code quality and performance.
 </p>
 
 <br>
@@ -28,17 +27,11 @@
 
 <img src="https://github.com/VeroIsoardi/VeroIsoardi/blob/main/assets/tailwindcss.svg" height="auto" width="40">
 
-<img src="https://github.com/VeroIsoardi/VeroIsoardi/blob/main/assets/vuejs.png" height="auto" width="40">
-
 <img src="https://github.com/VeroIsoardi/VeroIsoardi/blob/main/assets/ruby.png" height="auto" width="40">
 
 <img src="https://github.com/VeroIsoardi/VeroIsoardi/blob/main/assets/rails.png" height="auto" width="40">
 
-<img src="https://github.com/VeroIsoardi/VeroIsoardi/blob/main/assets/python.png" height="auto" width="40">
-
 <img src="https://github.com/VeroIsoardi/VeroIsoardi/blob/main/assets/postgresql.svg" height="auto" width="40">
-
-<img src="https://github.com/VeroIsoardi/VeroIsoardi/blob/main/assets/mysql.png" height="auto" width="40">
 
 <img src="https://github.com/VeroIsoardi/VeroIsoardi/blob/main/assets/git.svg" height="auto" width="40">
 </p>
